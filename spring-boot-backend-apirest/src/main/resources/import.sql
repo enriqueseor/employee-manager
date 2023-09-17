@@ -1,0 +1,11 @@
+INSERT INTO clientes (nombre, apellido, email, fecha) VALUES ('Enrique', 'Seco', 'enriqueseco@atos.net','2023-01-09');
+INSERT INTO clientes (nombre, apellido, email, fecha) VALUES ('Yogesh', 'Sikka', 'yogeshsikka@atos.net','2023-01-09');
+INSERT INTO clientes (nombre, apellido, email, fecha) VALUES ('Javier', 'Garcia', 'javiergarcia@atos.net', '2023-01-09');
+INSERT INTO clientes (nombre, apellido, email, fecha) VALUES ('Roman', 'Rozhenkov', 'romanrozhenkov@atos.net','2023-01-09');
+INSERT INTO clientes (nombre, apellido, email, fecha) VALUES ('Yanira', 'Rodriguez', 'yanirarodriguez@atos.net', '2023-01-09');
+INSERT INTO clientes (nombre, apellido, email, fecha) VALUES ('Irene', 'Figuereo', 'irenefiguereo@atos.net', '2023-01-09');
+INSERT INTO clientes (nombre, apellido, email, fecha) VALUES ('Victoria', 'Jimenez', 'victoriajimenez@atos.net', '2023-01-09');
+INSERT INTO clientes (nombre, apellido, email, fecha) VALUES ('Laura', 'Schoerken', 'lauraschoerken@atos.net', '2023-01-09');
+INSERT INTO clientes (nombre, apellido, email, fecha) VALUES ('Ricardo', 'Baloira', 'ricardobaloira@atos.net', '2023-01-09');
+INSERT INTO clientes (nombre, apellido, email, fecha) VALUES ('Gianfranco', 'Parracciani', 'gianfrancoparraciani@atos.net', '2023-01-09');
+INSERT INTO clientes (nombre, apellido, email, fecha) VALUES ('Adrián', 'Alonso', 'adrianalonso@atos.net', '2023-01-09');

@@ -1,0 +1,19 @@
+<div class="card border-primary mb-3">
+    <div class="card-header">Directivas</div>
+    <div class="card-body">
+        <h5 class="card-title">Listado de Funciones:</h5>
+
+        <button type="button" (click)="setHabilitar()" class="btn btn-primary my-3">{{ show==true? 'Ocular Listado':'Mostrar Listado' }}</button>
+        <div class="card border-primary mb-3">
+
+            <div class="card-header">
+                <h3>Tipos de Trabajadores en la Empresa</h3>
+            </div>
+
+            <ul class="list-group" *ngIf="show == true">
+                <li class="list-group-item primary mb-3" *ngFor="let curso of listaCurso">{{ curso }}</li>
+            </ul>
+
+        </div>
+    </div>
+</div>
