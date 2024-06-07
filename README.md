@@ -1,4 +1,4 @@
-# APIREST APP
+# EMPLOYEE MANAGER
 
 This is a comprehensive web application for managing employees. The project utilizes the [Spring](https://spring.io/) Framework for [Java](https://www.java.com/en/) on the backend side and [Angular](https://angular.io/) in the frond side, with [Boostrap](https://getbootstrap.com/) and [sweetalert2](https://sweetalert.js.org/).
 
