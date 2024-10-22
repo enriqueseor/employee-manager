@@ -6,27 +6,9 @@ This is a comprehensive web application for managing employees. The project util
 
 ## Table of Contents
 
-1. [Technologies Used](#technologies-used)
-2. [Features](#features)
-3. [Getting Started](#getting-started)
-6. [License](#license)
-
-## Technologies Used
-
-1. Angular Frontend
-- **HTML/CSS**
-- **Bootstrap**
-- **Sweetalert2**
-- **Typescript**
-- **Angular CLI**
-
-2. Spring Backend
-- **Java**
-- **Spring Framework**
-- **Spring MVC**
-- **Spring Boot**
-- **Hibernate**
-- **Maven**
+1. [Features](#features)
+2. [Getting Started](#getting-started)
+3. [License](#license)
 
 ## Features
 
